@@ -49,6 +49,8 @@ I used Excalidraw to make a wireframe of the GrubHub homepage.
 
 [Excalidraw](https://excalidraw.com/)
 
+&nbsp;
+
 ## _GitHub_
 
 I learned how use GitHub & fork repositories, make changes.
