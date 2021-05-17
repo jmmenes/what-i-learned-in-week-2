@@ -1,4 +1,4 @@
-# What I Learned In Week 2 At Code Immersives
+# What I Learned In Week 2 at Code Immersives
 
 Week 2's focus was mainly on CSS _Flexbox_ & _Grid_ with a introduction to Wireframing.
 
