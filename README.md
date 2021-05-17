@@ -1,8 +1,4 @@
-# what-i-learned-in-week-2
-
-Code Immersive Week 2
-
-# What I Learned In Week 2 at Code Immersives
+# What I Learned In Week 2 At Code Immersives
 
 Week 2's focus was mainly on CSS _Flexbox_ & _Grid_ with a introduction to Wireframing.
 
@@ -56,6 +52,8 @@ I used Excalidraw to make a wireframe of the GrubHub homepage.
 I learned how use GitHub & fork repositories, make changes.
 
 - git clone
-- git add
-- git commit -m
+- git add <FILE_NAME> \*to add a single file
+- git add -A \*add all changed files
+- git add . \*add all files and changes without the deleted files
+- git commit -m "The Commit message"
 - git push
